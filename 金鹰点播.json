@@ -1,0 +1,12 @@
+{
+    "name": "金鹰点播",
+    "description": "金鹰点播影视接口",
+    "host": "https://jinyingzy.com/api.php/provide/vod",
+    "files": ["金鹰点播.js"],
+    "pages": [
+        { "key": "index", "title": "最近更新", "url": "https://jinyingzy.com/api.php/provide/vod?ac=list", "javascript": "buildMedias" }
+    ],
+    "episodes": { "javascript": "Episodes" },
+    "player": { "javascript": "Player" },
+    "search": { "url": "https://jinyingzy.com/api.php/provide/vod?ac=search&keyword=${keyword}", "javascript": "buildMedias" }
+}
