@@ -1,0 +1,397 @@
+[
+    {
+        "id": "7144ceed-563d-4bef-9cd3-6f3d789c1a70",
+        "Top": true,
+        "note": "无广告",
+        "Search": true,
+        "title": "libvio",
+        "name": "libvio",
+        "Cover": "https://s2.loli.net/2023/12/28/KoJRfMV4DsgNTl9.png",
+        "api": "syncnextPlugin://https://raw.githubusercontent.com/731629308/1/main/alpha_v2/libvio.json"
+    },
+    {
+        "id": "6052f8ef-c731-4ba7-a551-9b6950157fb0",
+        "Top": true,
+        "note": "在线动漫资源门户漫",
+        "Search": true,
+        "title": "anfuns",
+        "name": "anfuns",
+        "Cover": "https://bj.bcebos.com/baidu-rmb-video-cover-1/5735e9da868abdd0c0865eb3948d25e8.png",
+        "api": "syncnextPlugin://https://raw.githubusercontent.com/731629308/1/main/alpha_v2/anfuns.json"
+    },
+    {
+        "id": "AEE28239-B325-A9A3-CBA6-733530EB4C89",
+        "Top": true,
+        "note": "grigri动漫",
+        "Search": true,
+        "name": "grigri动漫",
+        "Cover": "https://s2.loli.net/2023/12/28/HIJvdf8AlzDw1B4.png",
+        "api": "syncnextPlugin://https://raw.githubusercontent.com/731629308/1/main/alpha_v2/grigri.json"
+    },
+    {
+        "id": "9ac32fd6-0734-468b-8afc-257b02f30bd8",
+        "Top": true,
+        "note": "1080P 3M",
+        "name": "哔嘀影视",
+        "Cover": "",
+        "api": "syncnextPlugin://https://raw.githubusercontent.com/731629308/1/main/alpha_v2/bdys.json"
+    },
+    {
+        "id": "18ffea3a-dfcd-4e95-bf18-f65166ffa0c6",
+        "Top": true,
+        "note": "在线观看最新美剧",
+        "name": "在线之家",
+        "Cover": "https://s2.loli.net/2023/12/28/qP7yAGswkvB2nDU.png",
+        "api": "syncnextPlugin://https://raw.githubusercontent.com/731629308/1/main/alpha_v2/zxzj.json"
+    },
+    {
+        "id": "a1b2c3d4-1111-4bef-9cd3-6f3d789c1a70",
+        "Top": false,
+        "note": "无广告",
+        "Search": true,
+        "title": "360点播",
+        "name": "360点播",
+        "Cover": "",
+        "api": "syncnextPlugin://https://raw.githubusercontent.com/731629308/1/main/alpha_v2/360点播.json"
+    },
+    {
+        "id": "a1b2c3d4-2222-4bef-9cd3-6f3d789c1a70",
+        "Top": false,
+        "note": "无广告",
+        "Search": true,
+        "title": "豆瓣点播",
+        "name": "豆瓣点播",
+        "Cover": "",
+        "api": "syncnextPlugin://https://raw.githubusercontent.com/731629308/1/main/alpha_v2/豆瓣点播.json"
+    },
+    {
+        "id": "a1b2c3d4-3333-4bef-9cd3-6f3d789c1a70",
+        "Top": false,
+        "note": "无广告",
+        "Search": true,
+        "title": "旺旺点播",
+        "name": "旺旺点播",
+        "Cover": "",
+        "api": "syncnextPlugin://https://raw.githubusercontent.com/731629308/1/main/alpha_v2/旺旺点播.json"
+    },
+    {
+        "id": "a1b2c3d4-4444-4bef-9cd3-6f3d789c1a70",
+        "Top": false,
+        "note": "无广告",
+        "Search": true,
+        "title": "墨斗点播",
+        "name": "墨斗点播",
+        "Cover": "",
+        "api": "syncnextPlugin://https://raw.githubusercontent.com/731629308/1/main/alpha_v2/墨斗点播.json"
+    },
+    {
+        "id": "a1b2c3d4-5555-4bef-9cd3-6f3d789c1a70",
+        "Top": false,
+        "note": "无广告",
+        "Search": true,
+        "title": "黑木耳点播",
+        "name": "黑木耳点播",
+        "Cover": "",
+        "api": "syncnextPlugin://https://raw.githubusercontent.com/731629308/1/main/alpha_v2/黑木耳点播.json"
+    },
+    {
+        "id": "a1b2c3d4-6666-4bef-9cd3-6f3d789c1a70",
+        "Top": false,
+        "note": "无广告",
+        "Search": true,
+        "title": "华为吧点播",
+        "name": "华为吧点播",
+        "Cover": "",
+        "api": "syncnextPlugin://https://raw.githubusercontent.com/731629308/1/main/alpha_v2/华为吧点播.json"
+    },
+    {
+        "id": "a1b2c3d4-7777-4bef-9cd3-6f3d789c1a70",
+        "Top": false,
+        "note": "无广告",
+        "Search": true,
+        "title": "腐据点播",
+        "name": "腐据点播",
+        "Cover": "",
+        "api": "syncnextPlugin://https://raw.githubusercontent.com/731629308/1/main/alpha_v2/腐据点播.json"
+    },
+    {
+        "id": "a1b2c3d4-8888-4bef-9cd3-6f3d789c1a70",
+        "Top": false,
+        "note": "无广告",
+        "Search": true,
+        "title": "金鹰点播",
+        "name": "金鹰点播",
+        "Cover": "",
+        "api": "syncnextPlugin://https://raw.githubusercontent.com/731629308/1/main/alpha_v2/金鹰点播.json"
+    },
+    {
+        "id": "a1b2c3d4-9999-4bef-9cd3-6f3d789c1a70",
+        "Top": false,
+        "note": "无广告",
+        "Search": true,
+        "title": "OK点播",
+        "name": "OK点播",
+        "Cover": "",
+        "api": "syncnextPlugin://https://raw.githubusercontent.com/731629308/1/main/alpha_v2/OK点播.json"
+    },
+    {
+        "id": "b1c2d3e4-1111-4bef-9cd3-6f3d789c1a70",
+        "Top": false,
+        "note": "无广告",
+        "Search": true,
+        "title": "宝片点播",
+        "name": "宝片点播",
+        "Cover": "",
+        "api": "syncnextPlugin://https://raw.githubusercontent.com/731629308/1/main/alpha_v2/宝片点播.json"
+    },
+    {
+        "id": "b1c2d3e4-2222-4bef-9cd3-6f3d789c1a70",
+        "Top": false,
+        "note": "无广告",
+        "Search": true,
+        "title": "小黄人点播",
+        "name": "小黄人点播",
+        "Cover": "",
+        "api": "syncnextPlugin://https://raw.githubusercontent.com/731629308/1/main/alpha_v2/小黄人点播.json"
+    },
+    {
+        "id": "b1c2d3e4-3333-4bef-9cd3-6f3d789c1a70",
+        "Top": false,
+        "note": "无广告",
+        "Search": true,
+        "title": "牛牛点播",
+        "name": "牛牛点播",
+        "Cover": "",
+        "api": "syncnextPlugin://https://raw.githubusercontent.com/731629308/1/main/alpha_v2/牛牛点播.json"
+    },
+    {
+        "id": "b1c2d3e4-4444-4bef-9cd3-6f3d789c1a70",
+        "Top": false,
+        "note": "无广告",
+        "Search": true,
+        "title": "丫丫点播",
+        "name": "丫丫点播",
+        "Cover": "",
+        "api": "syncnextPlugin://https://raw.githubusercontent.com/731629308/1/main/alpha_v2/丫丫点播.json"
+    },
+    {
+        "id": "b1c2d3e4-5555-4bef-9cd3-6f3d789c1a70",
+        "Top": false,
+        "note": "无广告",
+        "Search": true,
+        "title": "影图点播",
+        "name": "影图点播",
+        "Cover": "",
+        "api": "syncnextPlugin://https://raw.githubusercontent.com/731629308/1/main/alpha_v2/影图点播.json"
+    },
+    {
+        "id": "b1c2d3e4-6666-4bef-9cd3-6f3d789c1a70",
+        "Top": false,
+        "note": "无广告",
+        "Search": true,
+        "title": "U酷点播",
+        "name": "U酷点播",
+        "Cover": "",
+        "api": "syncnextPlugin://https://raw.githubusercontent.com/731629308/1/main/alpha_v2/U酷点播.json"
+    },
+    {
+        "id": "b1c2d3e4-7777-4bef-9cd3-6f3d789c1a70",
+        "Top": false,
+        "note": "无广告",
+        "Search": true,
+        "title": "豪华点播",
+        "name": "豪华点播",
+        "Cover": "",
+        "api": "syncnextPlugin://https://raw.githubusercontent.com/731629308/1/main/alpha_v2/豪华点播.json"
+    },
+    {
+        "id": "b1c2d3e4-8888-4bef-9cd3-6f3d789c1a70",
+        "Top": false,
+        "note": "无广告",
+        "Search": true,
+        "title": "极速点播",
+        "name": "极速点播",
+        "Cover": "",
+        "api": "syncnextPlugin://https://raw.githubusercontent.com/731629308/1/main/alpha_v2/极速点播.json"
+    },
+    {
+        "id": "b1c2d3e4-9999-4bef-9cd3-6f3d789c1a70",
+        "Top": false,
+        "note": "无广告",
+        "Search": true,
+        "title": "索尼点播",
+        "name": "索尼点播",
+        "Cover": "",
+        "api": "syncnextPlugin://https://raw.githubusercontent.com/731629308/1/main/alpha_v2/索尼点播.json"
+    },
+    {
+        "id": "c1d2e3f4-1111-4bef-9cd3-6f3d789c1a70",
+        "Top": false,
+        "note": "无广告",
+        "Search": true,
+        "title": "ikun点播",
+        "name": "ikun点播",
+        "Cover": "",
+        "api": "syncnextPlugin://https://raw.githubusercontent.com/731629308/1/main/alpha_v2/ikun点播.json"
+    },
+    {
+        "id": "c1d2e3f4-2222-4bef-9cd3-6f3d789c1a70",
+        "Top": false,
+        "note": "无广告",
+        "Search": true,
+        "title": "非凡点播",
+        "name": "非凡点播",
+        "Cover": "",
+        "api": "syncnextPlugin://https://raw.githubusercontent.com/731629308/1/main/alpha_v2/非凡点播.json"
+    },
+    {
+        "id": "c1d2e3f4-3333-4bef-9cd3-6f3d789c1a70",
+        "Top": false,
+        "note": "无广告",
+        "Search": true,
+        "title": "量子点播",
+        "name": "量子点播",
+        "Cover": "",
+        "api": "syncnextPlugin://https://raw.githubusercontent.com/731629308/1/main/alpha_v2/量子点播.json"
+    },
+    {
+        "id": "c1d2e3f4-4444-4bef-9cd3-6f3d789c1a70",
+        "Top": false,
+        "note": "无广告",
+        "Search": true,
+        "title": "暴风点播",
+        "name": "暴风点播",
+        "Cover": "",
+        "api": "syncnextPlugin://https://raw.githubusercontent.com/731629308/1/main/alpha_v2/暴风点播.json"
+    },
+    {
+        "id": "c1d2e3f4-5555-4bef-9cd3-6f3d789c1a70",
+        "Top": false,
+        "note": "无广告",
+        "Search": true,
+        "title": "红牛点播",
+        "name": "红牛点播",
+        "Cover": "",
+        "api": "syncnextPlugin://https://raw.githubusercontent.com/731629308/1/main/alpha_v2/红牛点播.json"
+    },
+    {
+        "id": "c1d2e3f4-6666-4bef-9cd3-6f3d789c1a70",
+        "Top": false,
+        "note": "无广告",
+        "Search": true,
+        "title": "快车点播",
+        "name": "快车点播",
+        "Cover": "",
+        "api": "syncnextPlugin://https://raw.githubusercontent.com/731629308/1/main/alpha_v2/快车点播.json"
+    },
+    {
+        "id": "c1d2e3f4-7777-4bef-9cd3-6f3d789c1a70",
+        "Top": false,
+        "note": "无广告",
+        "Search": true,
+        "title": "闪电点播",
+        "name": "闪电点播",
+        "Cover": "",
+        "api": "syncnextPlugin://https://raw.githubusercontent.com/731629308/1/main/alpha_v2/闪电点播.json"
+    },
+    {
+        "id": "c1d2e3f4-8888-4bef-9cd3-6f3d789c1a70",
+        "Top": false,
+        "note": "无广告",
+        "Search": true,
+        "title": "樱花点播",
+        "name": "樱花点播",
+        "Cover": "",
+        "api": "syncnextPlugin://https://raw.githubusercontent.com/731629308/1/main/alpha_v2/樱花点播.json"
+    },
+    {
+        "id": "c1d2e3f4-9999-4bef-9cd3-6f3d789c1a70",
+        "Top": false,
+        "note": "无广告",
+        "Search": true,
+        "title": "卧龙点播",
+        "name": "卧龙点播",
+        "Cover": "",
+        "api": "syncnextPlugin://https://raw.githubusercontent.com/731629308/1/main/alpha_v2/卧龙点播.json"
+    },
+    {
+        "id": "d1e2f3a4-1111-4bef-9cd3-6f3d789c1a70",
+        "Top": false,
+        "note": "无广告",
+        "Search": true,
+        "title": "虎牙点播",
+        "name": "虎牙点播",
+        "Cover": "",
+        "api": "syncnextPlugin://https://raw.githubusercontent.com/731629308/1/main/alpha_v2/虎牙点播.json"
+    },
+    {
+        "id": "d1e2f3a4-2222-4bef-9cd3-6f3d789c1a70",
+        "Top": false,
+        "note": "无广告",
+        "Search": true,
+        "title": "飘零点播",
+        "name": "飘零点播",
+        "Cover": "",
+        "api": "syncnextPlugin://https://raw.githubusercontent.com/731629308/1/main/alpha_v2/飘零点播.json"
+    },
+    {
+        "id": "d1e2f3a4-3333-4bef-9cd3-6f3d789c1a70",
+        "Top": false,
+        "note": "无广告",
+        "Search": true,
+        "title": "无尽点播",
+        "name": "无尽点播",
+        "Cover": "",
+        "api": "syncnextPlugin://https://raw.githubusercontent.com/731629308/1/main/alpha_v2/无尽点播.json"
+    },
+    {
+        "id": "d1e2f3a4-4444-4bef-9cd3-6f3d789c1a70",
+        "Top": false,
+        "note": "无广告",
+        "Search": true,
+        "title": "速博点播",
+        "name": "速博点播",
+        "Cover": "",
+        "api": "syncnextPlugin://https://raw.githubusercontent.com/731629308/1/main/alpha_v2/速博点播.json"
+    },
+    {
+        "id": "d1e2f3a4-5555-4bef-9cd3-6f3d789c1a70",
+        "Top": false,
+        "note": "无广告",
+        "Search": true,
+        "title": "魔都点播",
+        "name": "魔都点播",
+        "Cover": "",
+        "api": "syncnextPlugin://https://raw.githubusercontent.com/731629308/1/main/alpha_v2/魔都点播.json"
+    },
+    {
+        "id": "d1e2f3a4-6666-4bef-9cd3-6f3d789c1a70",
+        "Top": false,
+        "note": "无广告",
+        "Search": true,
+        "title": "最大点播",
+        "name": "最大点播",
+        "Cover": "",
+        "api": "syncnextPlugin://https://raw.githubusercontent.com/731629308/1/main/alpha_v2/最大点播.json"
+    },
+    {
+        "id": "d1e2f3a4-7777-4bef-9cd3-6f3d789c1a70",
+        "Top": false,
+        "note": "无广告",
+        "Search": true,
+        "title": "火狐点播",
+        "name": "火狐点播",
+        "Cover": "",
+        "api": "syncnextPlugin://https://raw.githubusercontent.com/731629308/1/main/alpha_v2/火狐点播.json"
+    },
+    {
+        "id": "d1e2f3a4-8888-4bef-9cd3-6f3d789c1a70",
+        "Top": false,
+        "note": "无广告",
+        "Search": true,
+        "title": "新浪点播",
+        "name": "新浪点播",
+        "Cover": "",
+        "api": "syncnextPlugin://https://raw.githubusercontent.com/731629308/1/main/alpha_v2/新浪点播.json"
+    }
+]
