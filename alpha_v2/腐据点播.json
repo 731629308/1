@@ -1,0 +1,12 @@
+{
+    "name": "腐据点播",
+    "description": "腐据点播影视接口",
+    "host": "http://www.fuju2024.cc:8013/ruifenglb_api.php/provide/vod",
+    "files": ["腐据点播.js"],
+    "pages": [
+        { "key": "index", "title": "最近更新", "url": "http://www.fuju2024.cc:8013/ruifenglb_api.php/provide/vod?ac=list", "javascript": "buildMedias" }
+    ],
+    "episodes": { "javascript": "Episodes" },
+    "player": { "javascript": "Player" },
+    "search": { "url": "http://www.fuju2024.cc:8013/ruifenglb_api.php/provide/vod?ac=search&keyword=${keyword}", "javascript": "buildMedias" }
+}

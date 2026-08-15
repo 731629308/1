@@ -1,0 +1,12 @@
+{
+    "name": "360点播",
+    "description": "360点播影视接口",
+    "host": "https://360zy.com/api.php/provide/vod",
+    "files": ["360点播.js"],
+    "pages": [
+        { "key": "index", "title": "最近更新", "url": "https://360zy.com/api.php/provide/vod?ac=list", "javascript": "buildMedias" }
+    ],
+    "episodes": { "javascript": "Episodes" },
+    "player": { "javascript": "Player" },
+    "search": { "url": "https://360zy.com/api.php/provide/vod?ac=search&keyword=${keyword}", "javascript": "buildMedias" }
+}
